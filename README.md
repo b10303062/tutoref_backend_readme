@@ -13,6 +13,7 @@ Tutoref 是一個山地服務社團為了有系統性地進行教案管理與搜
 ## 專案連結
 - Repository: https://github.com/sksmaed/tutoref_backend
 - README: https://github.com/sksmaed/tutoref_backend/blob/main/README.md
+- Deployment website: https://www.tutoref.tw/
 
 ## 後端在做什麼
 `tutoref_backend` 是 `tutoref.tw` 的 Django 後端，主要負責教案資料管理、身份驗證、搜尋能力、檔案上傳流程、背景任務處理，以及可部署到正式環境的 API 服務。
